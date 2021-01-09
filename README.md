@@ -2,7 +2,7 @@
 
 ### Hello and welcome to my GitHub profile! 👋
 
-My name is Jakolien den Hollander. On January 26th my era in academia will end after defending my Ph.D. thesis on using electrical currents in the brain to distinguish speech and language disorders after stroke. I wish to start career in the field of data science. In preparation for my transition from a scientist to a data scientist, I took part in the data science bootcamp at neuefische. After 540 hours of coding in Python, I feel ready for the real world challanges.
+My name is Jakolien den Hollander. On January 26th my era in academia will end after defending my Ph.D. thesis on using electrical currents in the brain to distinguish speech and language disorders after stroke. I am currently taking a courageous step from working on language processing in the neural networks of the human brain to learning about natural language processing in artificial neural networks. In preparation for my transition from a scientist to a data scientist, I took part in the data science bootcamp at neuefische. After 540 hours of coding in Python, I feel ready for the real world challanges.
 
 &#128294; I am looking for a job as a data scientist.
 
