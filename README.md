@@ -1,8 +1,8 @@
-[![Header](https://github.com/jakoliendenhollander/jakoliendenhollander/blob/main/header.png "Header")](https://jakoliendenhollander.de/)
+[![Header](https://github.com/jakoliendenhollander/jakoliendenhollander/blob/main/header.svg "Header")](https://jakoliendenhollander.de/)
 
 ### Hello and welcome to my GitHub profile! 👋
 
-My name is Jakolien den Hollander. On January 26th my era in academia will end after defending my Ph.D. thesis on using electrical currents in the brain to distinguish speech and language disorders after stroke. I am currently taking a courageous step from working on language processing in the neural networks of the human brain to learning about natural language processing in artificial neural networks. In preparation for my transition from a scientist to a data scientist, I took part in the data science bootcamp at neuefische. After 540 hours of coding in Python, I feel ready for the real world challanges.
+My name is Jakolien den Hollander. On January 26th my era in academia will end after defending my Ph.D. thesis on using electrical currents in the brain to distinguish speech and language disorders after stroke. I am currently taking a courageous step from working on language processing in neural networks of the human brain to learning about natural language processing in artificial neural networks. In preparation for my transition from a scientist to a data scientist, I took part in the data science bootcamp at neuefische. After 540 hours of coding in Python, I feel ready for the real world challanges.
 
 &#128294; I am looking for a job as a data scientist.
 
@@ -16,16 +16,16 @@ You can find me on [![LinkedIn][1.2]][1].
 
 ### &#128295; Technologies and Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Libraries-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Libraries-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Tools-Jupyter%20lab-informational?style=flat&logo=Jupyter&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=Mathworks&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/Query-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=ff781f)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ff781f)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/Libraries-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/Libraries-NumPy-informational?style=flat&logo=NumPy&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/Libraries-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/Tools-Jupyter%20lab-informational?style=flat&logo=Jupyter&logoColor=white&color=edae49)
+![](https://img.shields.io/badge/Tools-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=edae49)
+![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=Mathworks&logoColor=white&color=edae49)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/Query-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=e07a5f)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=373f51)
 
 ### &#128200; GitHub statistics
 
