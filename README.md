@@ -1,4 +1,4 @@
-[![Header](https://github.com/jakoliendenhollander/jakoliendenhollander/blob/main/header.svg "Header")](https://jakoliendenhollander.de/)
+[![Header](https://github.com/jakoliendenhollander/jakoliendenhollander/blob/main/header_with_path.svg "Header")](https://jakoliendenhollander.de/)
 
 ### Hello and welcome to my GitHub profile! 👋
 
