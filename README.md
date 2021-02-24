@@ -6,7 +6,7 @@ My name is Jakolien den Hollander. &#128587; On January 26th my era in academia 
 
 &#128294; The *three public repositories* show my projects from the neuefische data science bootcamp.
 
-&#128567; Predicting the number of COVID-19 cases world wide using machine learning. What is the impact of mask wearing and social distancing on the course of the global pandemic? *Catch A Third Wave* in cooperation with lauradellantonio.
+&#128567; Predicting the number of COVID-19 cases world wide using machine learning. What is the impact of mask wearing and social distancing on the course of the global pandemic? *Catch-a-third-wave* in cooperation with lauradellantonio.
 
 &#128640; Analysis of factors that contribute to a successful campaign at a crowndfunding platform. Predicting whether a campaign will be successful using machine learning. *2020-ds-Project02-Kickstarter* in cooperation with FischJunge.
 
